@@ -1,16 +1,24 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Alejandra López 
 
-<!--
-**Alcalov15/Alcalov15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Ingeniera Geomática con formación en Ciencia de Datos  
+🌍 Apasionada por el análisis espacial y la visualización de datos  
+🧪 Experiencia en proyectos de infraestructura y auditoría territorial  
+🔍 Buscando oportunidades como Científica de Datos Jr. o Analista SIG
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologías y herramientas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python, Pandas, Scikit-learn, Streamlit
+- QGIS, ArcGIS
+- AutoCAD, CivilCAD
+- SQL, Excel
+- Plotly, Matplotlib
+
+- ## 📌 Proyectos destacados
+
+- [Análisis de datos de vehículos con Streamlit](https://github.com/Alcalov15/Proyecto)
+- [Clon de aplicación con Streamlit](https://github.com/Alcalov15/Clon)
+
+## 📫 Contacto
+
+- [LinkedIn](https://www.linkedin.com/in/alejandra-lopez-villafan/)
+- Correo: alejandra.lvillafa@gmail.com
